@@ -6,7 +6,7 @@ const path=require("path");
 const methodOverride=require("method-override");
 const ejsMate=require("ejs-mate");
 
-
+// dfg
 main()
 .then(()=>{
 console.log("connected to db")
